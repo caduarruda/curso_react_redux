@@ -1,4 +1,4 @@
-const webpack = require('webpack')
+const webpack = require('webpack');
 // ExtractTextPlugin foi adicionado no ex.10
 const ExtractTextPlugin = require('extract-text-webpack-plugin')
 
